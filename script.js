@@ -70,7 +70,7 @@ for (const clickBtn of btns) {
 	clickBtn.style.color = "#FFFFFF";
 	clickBtn.style.padding = "10px 20px";
 	clickBtn.style.fontSize = "16px";
-	clickBtn.style.margin = "0px 5px";
+	clickBtn.style.margin = "5px";
 	clickBtn.style.border = "0";
 	clickBtn.style.outline = "0";
 	clickBtn.style.cursor = "pointer";
